@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // Function to create a promise that resolves with an array after 3 seconds
 function getNumbers() {
     return new Promise((resolve) => {
